@@ -3,3 +3,6 @@ This is my custom regex.list file for use with Pi-hole v4+. The Entrys as a simp
 
 **Note: Put each line you want in your Pi-Hole Blacklist**
 
+<p align="left">
+  <img width="550" src="https://raw.githubusercontent.com/SwissSkynet/whitelist/master/images/logo.png">
+</p>
